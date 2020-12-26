@@ -10150,6 +10150,13 @@ h3 {
   .masthead .masthead-heading{
     margin-top: 30px;
   }
+  #resumeBtn{
+    text-align: center !important;
+  }
+  .masthead{
+    height: 700px !important;
+  }
+
 }
 
 .portfolio .portfolio-item {
